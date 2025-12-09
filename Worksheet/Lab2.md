@@ -1,2 +1,3 @@
 #Lab2 : Game 2D
-1. [Try to complie and rund the movement source code](test.html)
+1. [ให้นักศึกษาติดตั้ง Unity](https://unity.com/download)
+2. [ฝึกการสร้างฉากและตัวละครใน Unity](
